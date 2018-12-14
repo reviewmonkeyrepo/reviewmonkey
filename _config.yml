@@ -1,0 +1,43 @@
+# Site
+name: "ReviewMonkey.org"
+description: "Monkey See, Monkey Do, Monkey Review"
+meta_description: "Reviews, Opinions, ReviewMonkey.org"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ""
+
+google_analytics: 'UA-131025732-1'
+disqus: 'reviewmonkey-org'
+mailchimp-list: 'https://reviewmonkey.us7.list-manage.com/subscribe/post?u=3372b9f41e57e0b40f91fe0e9&amp;id=4c39e3b6fa'
+
+# Authors
+authors:
+  HeadMonkey:
+    name: HeadMonkey
+    display_name: Monkey in Chief
+    gravatar: 3fc5c9bb575b9d7bfc99a3135e8a37ab
+    email: reviewmonkey.org@gmail.com
+    web: https://reviewmonkey.org
+    #twitter: https://twitter.com/wowthemesnet
+    description: "The Monkey in Chief, the Primary Primate Doing Reviews"
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
