@@ -57,7 +57,7 @@ The only solution I have found for this is to either a) use an external keyboard
 
 Microsoft has had a number of updated for the Surface Book to fix a number of major issues but this issue continues to persist which makes me think that there is no solution for it an it is likely a physical issue.
 
-### Nothing about the Tablet Mode ###
+### Tablet Mode ###
 
 Surprisingly I have not found myself using it in tablet mode. It gives you a full page landscape or portrait viewing experience which is pretty nice. And the way that the tablet detaches from the base will delight Star Trek fans who got giddy whenever the Enterprise would detach the saucer section, but the batter life isn't as good as what a dedicated Surface or Ipad would give. You can always turn it around and use it with the base in tablet mode but it is a bit bulky. 
 
