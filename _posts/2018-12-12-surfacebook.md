@@ -4,8 +4,8 @@ title:  "Surface Book"
 author: HeadMonkey
 categories: [ laptop, tech, tablet ]
 image: assets/images/surfacebook_laptop.jpg
-hidden: true
-featured: true
+hidden: false
+featured: false
 ---
 **Bananas:** ![banana]({{site.baseurl}}/assets/images/banana.png)![banana]({{site.baseurl}}/assets/images/banana.png)![banana]({{site.baseurl}}/assets/images/banana.png)<br><br>The Microsoft Surface Book was released to the world on October 26, 2015 according to Wikipedia. It featured a two-in-one tablet design that people who liked the Surface tabled line but wanted a traditional laptop could get behind.
 
