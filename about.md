@@ -14,13 +14,12 @@ Our committment is to give honest reviews.  Reviews will fall into two categorie
 
 ### Will Donated Items Get Favorable Reviews?
 
-While that may be expectation on some sites, here at ReviewMonkey.org we adhere to the following vendor code of conduct that all vendors donating items must agree to abide by:
+While that may be expectation on some sites, here at ReviewMonkey.org anything donated is fair game.  If we love it, we will gladly sing your praises, if we hate it you are just going to have to take your lumps and accept our opinion.  If you don't like them apples, don't send us something to review. Easy fix.
 
-As a Vendor donating an item for review on ReviewMonkey.org, I/We agree that:
+In addition:
 
-* Items donated for review will not be given any preferential treatmet;
-* Items donated for review will may end up with an unfavorable review, I accept this possibility and agree not to hold ReviewMonkey.org liable for said reviews, opinions or comments;
-* Items donated for review will not be returned, they will either be kept by the Monkey doing the review or donated to a charity at the review Monkey's discretion
+* Items donated for review will not be returned, they will either be kept by the Monkey doing the review or donated to a charity at the review Monkey's discretion. 
+* We are busy, have jobs and families and don't have time to be running to UPS all the time. If you have something really expensive you want us to review and can provide paid return shipping, email us and was can talk.
 
 ### A Note About Monetization
 
@@ -30,7 +29,7 @@ So we asked ourselves? What would monetizing bring us? Likely nothing but self-h
 
 ### Hosting / Authoring
 
-ReviewMonkey.org is hosted on Github and uses Jekyll to generate static pages.  Posts are submitted through github commits.  There is no magic here, if you want to see the code the repo is located [here](https://github.com/stvlange/reviewmonkey.org).
+ReviewMonkey.org is hosted on Github and uses Jekyll to generate static pages.  Posts are submitted through github commits. Since this site uses jekyll-archives the Monkey in Chief runs the local build and uploads to the docs folder on the repo. There is no magic here, if you want to see the code the repo is located [here](https://github.com/reviewmonkeyrepo/reviewmonkey).
 
 ### Contact
 
