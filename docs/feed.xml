@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Monkey See, Monkey Do, Monkey Review</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Dec 2018 16:26:14 -0600</pubDate>
-    <lastBuildDate>Sun, 16 Dec 2018 16:26:14 -0600</lastBuildDate>
+    <link>https://reviewmonkey.org/</link>
+    <atom:link href="https://reviewmonkey.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 16 Dec 2018 16:34:22 -0600</pubDate>
+    <lastBuildDate>Sun, 16 Dec 2018 16:34:22 -0600</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -38,8 +38,8 @@
 &lt;p&gt;That’s all I have for now, thanks for reading!&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Dec 2018 00:00:00 -0600</pubDate>
-        <link>/movie/spiderman/marvel/sony/2018/12/15/Into_the_SpiderVerse.html</link>
-        <guid isPermaLink="true">/movie/spiderman/marvel/sony/2018/12/15/Into_the_SpiderVerse.html</guid>
+        <link>https://reviewmonkey.org/movie/spiderman/marvel/sony/2018/12/15/Into_the_SpiderVerse.html</link>
+        <guid isPermaLink="true">https://reviewmonkey.org/movie/spiderman/marvel/sony/2018/12/15/Into_the_SpiderVerse.html</guid>
         
         
         <category>movie</category>
@@ -81,8 +81,8 @@
 &lt;p&gt;The Otterbox commuter satisfies that need in my opinion.  It has given me peace of mind while still letting me enjoy the slim nature of the phone. Thanks for reading!&lt;/p&gt;
 </description>
         <pubDate>Thu, 13 Dec 2018 00:00:00 -0600</pubDate>
-        <link>/iphone/case/2018/12/13/otterbox.html</link>
-        <guid isPermaLink="true">/iphone/case/2018/12/13/otterbox.html</guid>
+        <link>https://reviewmonkey.org/iphone/case/2018/12/13/otterbox.html</link>
+        <guid isPermaLink="true">https://reviewmonkey.org/iphone/case/2018/12/13/otterbox.html</guid>
         
         
         <category>iphone</category>
@@ -152,8 +152,8 @@
 &lt;p&gt;So there you have it, this monkey’s honest review of the original Surface Book.  I am going to give it three bananas because of the annoyance the keyboard and trackpad gives me on a daily basis.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Dec 2018 00:00:00 -0600</pubDate>
-        <link>/laptop/tech/tablet/2018/12/12/surfacebook.html</link>
-        <guid isPermaLink="true">/laptop/tech/tablet/2018/12/12/surfacebook.html</guid>
+        <link>https://reviewmonkey.org/laptop/tech/tablet/2018/12/12/surfacebook.html</link>
+        <guid isPermaLink="true">https://reviewmonkey.org/laptop/tech/tablet/2018/12/12/surfacebook.html</guid>
         
         
         <category>laptop</category>
