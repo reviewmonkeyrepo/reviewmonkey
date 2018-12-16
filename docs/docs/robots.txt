@@ -1,1 +1,1 @@
-Sitemap: /reviewmonkey/sitemap.xml
+Sitemap: /sitemap.xml
