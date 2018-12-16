@@ -4,7 +4,7 @@ description: "Monkey See, Monkey Do, Monkey Review"
 meta_description: "Reviews, Opinions, ReviewMonkey.org"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ""
+baseurl: "/reviewmonkey"
 
 google_analytics: 'UA-131025732-1'
 disqus: 'reviewmonkey-org'
