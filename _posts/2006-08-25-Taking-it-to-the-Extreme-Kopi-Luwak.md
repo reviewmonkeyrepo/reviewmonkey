@@ -27,6 +27,6 @@ Let me try to describe the smell of Luwak coffee beans — they have an earthy s
 
 Neither the Arabica or Robusta Luwak coffee is bitter, those claims are quite true. The Arabica Luwak coffee had a creamy and sweet, almost ethereal taste with each sip. Cream and sugar is not needed with either of these coffees.
 
-![Kopi Lukwak Paperweight](assets/images/paperweight.jpg){: .pull-left}Buying coffee like this really does need to be commemorated… What better way to do that than with a piece of unprocessed Kopi Luwak coffee! Both natural and lucite encased samples are available.
+![Kopi Lukwak Paperweight]({{site.baseurl}}/assets/images/paperweight.jpg){: .pull-left}Buying coffee like this really does need to be commemorated… What better way to do that than with a piece of unprocessed Kopi Luwak coffee! Both natural and lucite encased samples are available.
 
 Kopi Luwak coffee is an extreme gourmet coffee experience that I think every coffee aficionado should experience at least once in his/her lifetime. I would like to thank Animal Coffee for giving me the opportunity to review this truly unique and rare gourmet coffee. It has been a positive and unique experience that I will not soon forget. 
