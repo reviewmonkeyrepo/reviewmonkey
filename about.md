@@ -35,6 +35,10 @@ ReviewMonkey.org is hosted on Github and uses Jekyll to generate static pages.  
 
 People wishing to drop us a line, or organizations looking to donate items for an unbiased review can email us at: **reviewmonkey.org@gmail.com**
 
+### Older Coffee Content
+
+You may notice that there is a fair amount of older posts here that deal with coffee. Years ago we ran a coffee themed blog called Brotherhood of the Bean which was re-branded later as CoffeeDrinkers.org. As we were sifting through the content of CoffeeDrinkers.org we decided to bring over some of the old reviews to this site and shutdown the old ones. You see we appreached reviews on those sites in the same way that we approach them here, so rather than let them fade into oblivion we brought that over for your enjoyment.
+
 ![monkey]({{site.baseurl}}/assets/images/monkey-jonny-doomsday.png) <!-- {: .shadow} -->
 
 
