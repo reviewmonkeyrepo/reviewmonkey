@@ -22,6 +22,15 @@ authors:
     #twitter: https://twitter.com/wowthemesnet
     description: "The Monkey in Chief, the Primary Primate Doing Reviews"
 
+  OldMonkeyFriend:
+    name: OldMonkeyFriend
+    display_name: Old Monkey Friend
+    gravatar: 3fc5c9bb575b9d7bfc99a3135e8a37ab
+    email: reviewmonkey.org@gmail.com
+    web: https://reviewmonkey.org
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Old Trusted Friend of the Monkey in Chief"
+
 # Plugins
 plugins: 
   - jekyll-paginate

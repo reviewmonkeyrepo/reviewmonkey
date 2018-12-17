@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BonJour Latte Frother"
-author: HeadMonkey
+author: OldMonkeyFriend
 categories: [ coffee ]
 image: assets/images/bonjour.jpg
 hidden: false
