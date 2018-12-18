@@ -23,7 +23,9 @@ Of these four items, most people will stop after getting fresh quality beans. Ho
 >
 > Burr grinders with disk-type burrs usually grind at a faster speed than conical burr grinders and as a result tend to create a bit more warmth in the coffee. They are the most economical way of getting a consistent grind in a wide range of applications. They are well suited for most home coffee preparation.
 
-![capresso-infinity]({{site.baseurl}}/assets/images/capresso-infinity.jpg){: .pull-right}Consistent size, low heat, the most aroma.. sounds like just what we need for some great coffee. That being said, we cracked open a Capresso Infinity Burr Grinder for review.
+![capresso-infinity]({{site.baseurl}}/assets/images/capresso-infinity.jpg)
+
+Consistent size, low heat, the most aroma.. sounds like just what we need for some great coffee. That being said, we cracked open a Capresso Infinity Burr Grinder for review.
 
 For our review, we used Model #565.04. This 6.1 lbs grinder has a heavy duty zinc die-cast housing. The test model we reviewed had a matte brushed chrome finish. Those who like to clean fingerprints might consider the high mirror chrome (#565.04).
 
