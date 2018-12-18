@@ -196,3 +196,44 @@
     color: #008080; }
   .highlight .il {
     color: #009999; }
+
+/* ==========================================================================
+   Helpers and Utility Classes
+   ========================================================================== */
+/*
+   Typography
+   ========================================================================== */
+/* capitalize all letters */
+.all-caps {
+  text-transform: uppercase; }
+
+/* center text */
+.center {
+  text-align: center; }
+
+/* remove bullets from list items */
+/**
+ *  <ul class="unstyled-list">
+ *    <li>Item 1</li>
+ *    <li>Item 2</li>
+ *  </ul>
+ */
+.unstyled-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0; }
+  .unstyled-list li {
+    list-style-type: none; }
+
+/*
+   Image alignment
+   ========================================================================== */
+/* float left */
+.pull-left {
+  float: left;
+  padding-right: 3px; }
+
+/* float right */
+.pull-right {
+  float: right;
+  padding-left: 3px; }

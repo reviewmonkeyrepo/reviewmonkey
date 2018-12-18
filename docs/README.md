@@ -46,6 +46,9 @@ featured: false
 ---
 ```
 
-
-    
+Add to images to float left or right:
+````
+{: .pull-right}
+{: .pull-left}
+````
 
