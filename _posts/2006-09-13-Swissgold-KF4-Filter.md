@@ -7,7 +7,7 @@ image: assets/images/swissgold.jpg
 hidden: false
 featured: false
 ---
-**Bananas:** ![banana]({{site.baseurl}}/assets/images/banana.png)![banana]({{site.baseurl}}/assets/images/banana.png)![banana]({{site.baseurl}}/assets/images/banana.png)![banana]({{site.baseurl}}/assets/images/banana.png)!<br><br>You demand a lot out of your coffee and you accept only the best. You buy the freshest beans, have the best hardware that you can afford, use filtered water, natural paper filters, and thick ceramic mugs… wait, did you just say paper filters?
+**Bananas:** ![banana]({{site.baseurl}}/assets/images/banana.png)![banana]({{site.baseurl}}/assets/images/banana.png)![banana]({{site.baseurl}}/assets/images/banana.png)![banana]({{site.baseurl}}/assets/images/banana.png)<br><br>You demand a lot out of your coffee and you accept only the best. You buy the freshest beans, have the best hardware that you can afford, use filtered water, natural paper filters, and thick ceramic mugs… wait, did you just say paper filters?
 
 Paper filters, while very good at screening solids from your coffee also do an effective job of absorbing the natural fats that are released during the coffee brewing process.
 
